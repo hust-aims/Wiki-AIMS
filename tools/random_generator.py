@@ -2,7 +2,7 @@
 import random
 
 '''
-按权重随机抽取
+按权重随机抽取n个人，配置信息为tickets_map和抽取人数。
 tickets_map为权重表，权重为int值，越大代表抽取概率越大。
 '''
 tickets_map = {
@@ -22,6 +22,7 @@ for name in tickets_map:
 random.shuffle(pool)
 print("Initial pool: ", pool)
 
+# 抽取n个人
 for i in range(2):
   print("Round ", i)
   choose_name = random.sample(pool, 1)
