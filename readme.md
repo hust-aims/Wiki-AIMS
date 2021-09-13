@@ -1,4 +1,4 @@
-请点击仓储导航栏处的「[Wiki](https://gitlab.com/SSSSDS/Wiki4SSS-SDS/wiki)」查看及编辑芯片组公共 Wiki。
+请点击仓储导航栏处的「[Wiki](https://gitlab.com/SSSSDS/Wiki4SSS-SDS/-/wiki)」查看及编辑芯片组公共 Wiki。
 
 关于 Wiki 的说明：
 
