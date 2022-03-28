@@ -2,6 +2,7 @@
 
 ## 访问NAS
 
+QuickConnectID：`HUSTSSS-NAS`
 网页端DSM：内网使用https://10.17.21.102:5000，外网使用[http://QuickConnect.cn/HUSTSSS-NAS](http://quickconnect.cn/HUSTSSS-NAS)
 
 Windows：使用SMB服务，在资源管理器地址栏中输入：`\\10.17.21.102`，填写自己账号和密码即可
