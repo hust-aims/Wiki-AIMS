@@ -39,6 +39,21 @@ macOS：使用AFP服务，在访达菜单栏中选择`前往 -> 连接服务器`
 
 http端口为5005，https端口为5006
 
+### 1.6 使用RaiDrive将NAS映射为Windows磁盘
+（1）安装RaiDrive
+
+官网地址：https://www.raidrive.com/
+
+安装包已上传到NAS中的 /HUSTSSS共享文件夹/Programmes/raidrive-2022-3-21.exe
+
+（2）RaiDrive配置
+
+```新建虚拟驱动器 -> 服务类型选NAS-WebDAV -> 填写WebDAV地址：https://10.17.21.102:5006 -> 填写账号密码```
+
+![添加WebDAV](./NAS使用说明.assets/RaiDrive Config.png)
+
+![预览](./NAS使用说明.assets/RaiDrive Preview.png)
+
 ## 2 文件同步
 
 如果需要将本地文件与NAS进行同步，可使用Synology Drive进行同步，[下载链接](https://www.synology.cn/zh-cn/dsm/feature/drive)。Synology Drive提供版本控制，最多32个版本，目前设置的规则为8个版本。
