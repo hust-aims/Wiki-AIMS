@@ -73,6 +73,19 @@ http端口为5005，https端口为5006
 - CSD共享文件夹：总共500GB
 - 其余小组共享空间需联系管理员
 
+## 5 Synology Office套件
+
+Offce套件属于Synology Drive套件，因此点击Synology Drive进入。
+
+![image-20220329114324233](./NAS使用说明.assets/image-20220329114324233.png)
+
+### 示例
+
+选择Office文件，可以选择查看，也可选择转换成群晖Office文件（支持多人同时协作编辑）
+
+![image-20220329114425960](./NAS使用说明.assets/image-20220329114425960.png)
+
+
 
 ## 官方文档
 
