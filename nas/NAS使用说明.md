@@ -12,7 +12,7 @@ NAS提供了多种文件协议，大家根据自己需要选择即可。
 
 ### 1.1 网页端DSM 
 
-内网使用http://10.17.21.102或者https://10.17.21.102
+内网使用http://10.17.21.102 或者 https://10.17.21.102
 
 外网使用[http://QuickConnect.cn/HUSTSSS-NAS](http://quickconnect.cn/HUSTSSS-NAS)
 
