@@ -17,7 +17,7 @@ NAS提供了多种文件协议，大家根据自己需要选择即可。
 
 ### 1.1 网页端DSM 
 
-内网使用http://192.168.163.99 或者 https://192.168.163.99 ，端口 5000
+内网使用http://192.168.163.99:5000 或者 https://192.168.163.99:5000 (不可用)
 
 外网使用[http://QuickConnect.cn/HUSTSSS-NAS](http://quickconnect.cn/HUSTSSS-NAS)
 
